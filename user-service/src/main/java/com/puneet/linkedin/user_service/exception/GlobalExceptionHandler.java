@@ -1,6 +1,5 @@
 package com.puneet.linkedin.user_service.exception;
 
-import com.puneet.linkedin.posts_service.exception.ResourceNotFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;
